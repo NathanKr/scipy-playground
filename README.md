@@ -1,1 +1,1 @@
-# scipy-playground
+check my slides <a href="https://docs.google.com/presentation/d/12pE6CCT1qOdq7LrsBEMXwTYpLi286jtbh7Jk5zCksRw/edit?usp=sharing">here</a>
